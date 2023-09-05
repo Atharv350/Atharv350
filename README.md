@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharv Deoskar</h1>
-<h3 align="center">I'm cuurrenly doing my first year of batchleors from UPES Dehradun</h3>
+<h3 align="center">I'm currently doing my first year of batchleors from UPES Dehradun</h3>
 
 - 🔭 I’m in my first year year in B. Tech in CSe course in UPES, Dehradun.
 - 🌱 I’m presently learning computer science
